@@ -24,7 +24,7 @@ vector<int> print(vector<int>v){
 int main(){
     vector<int> reverse;
     reverse.push_back(10);
-    reverse.push_back(9);
+    reverse.push_back(9); 
     reverse.push_back(8);
     reverse.push_back(7);
     reverse.push_back(6);
