@@ -51,6 +51,16 @@ int main(){
 
     cout << p << endl;
 
+    // Adding pointer of different data types...
+    int a = 5;
+    char c = 'q';
+    float j = 5.9;
+    double o = 20000;
+    
+//     Theirs nothing need to write all the pointer for each data types just write like this..
+//     example -->
+    double *c = &o;
+    
 
 
 }
