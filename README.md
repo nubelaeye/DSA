@@ -1,5 +1,5 @@
-# DSA
-Love Babber Lecture - 16
+# **DSA**
+Love Babber DSA course
 
 
 Hi guys this is written by me and i will finish full DSA in this year 
