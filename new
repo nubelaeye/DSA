@@ -1,0 +1,24 @@
+# Today we will talk about the Tensors
+# Tensor :- Tensors are only ML generalistaion of vectors and matrices into any number of dimensions.
+# Types of Tensors:-
+    # 1. Scalar :-
+        # * No Dimension
+        # * Single Number
+        # * Denoted in lowercase Italics
+        # * Should be typed, like all other tensors -> e.g. int, float.
+        
+    # 2. Vectors :-
+        # * 1 Dimension
+        # * Arranged in an order, so element can be accessed by its index.
+        # * Vectors of two length represents location in 2D Matrix
+        
+    # 3. Matrix :- 
+        # About Matrix you will know in Matrix Lecture.
+        
+    # And there a nDimensional Tensors
+        
+# Zero Vector :- 
+    # These vectors are used for the creating an array the number of zeros u want.
+    
+# Unit Vector :-
+    # When vectors's length is equal to one. These types of vectors are called Unit Vector.
